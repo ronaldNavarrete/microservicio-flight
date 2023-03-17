@@ -1,8 +1,8 @@
-## Description
+## Autor
 
 Ronald Navarrete.
 
-## Installation
+## Instalación
 
 ```bash
 $ npm install
